@@ -11,7 +11,7 @@ This is a private screening booking system developed using Python and Streamlit.
 
 ## Clone the Repository
 ```
-git clone https://github.com/Jimzical/DBMS-Project.git
+git clone https://github.com/Jimzical/Private-Screening-Booking-System.git
 ```
 
 ## Run the Application
