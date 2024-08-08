@@ -3,7 +3,7 @@
 # SE Project
 Software Engineering project for sem 5 
 
-This is a private screening booking system developed using Python and Streamlit. This system allows users to book private screenings for movies, providing a convenient and efficient way to manage and organize events.
+This is a private screening booking system developed using Python and Streamlit. This system allows users to book private screenings for movies, providing a convenient and efficient way to manage and organize screening events.
 
 
 # How to Run
